@@ -1,0 +1,1 @@
+const valoreProva = mediaProvas(2,3,5,provaFim);
