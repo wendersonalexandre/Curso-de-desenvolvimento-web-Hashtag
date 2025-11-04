@@ -29,7 +29,7 @@ console.log(produtos3.includes("Agenda"));
 
 let arr1 =  [2, 5, 8, 1];
 let result = arr1.some((numero) => numero > 7);
-console.log(result);
+console.log("Resultado: " + result);
 
 
 // -------------------------------------------------------------
@@ -38,5 +38,5 @@ console.log(result);
 
 let arr2 = [4, 6, 8, 2];
 let resultado = arr2.every((num) => num > 3);
-console.log(resultado);
+console.log("Resultado: " + resultado);
 
