@@ -58,7 +58,7 @@ console.log("_________________________________");
 
 const valor1 = 1 / 0; // Infinity
 const valor2 = NaN; // NaN
-const string = "abc"
+const string = "abc"; 
 
 console.log(Number.isFinite(valor1)); // Saída: false
 console.log(Number.isFinite(valor2)); // Saída: false
