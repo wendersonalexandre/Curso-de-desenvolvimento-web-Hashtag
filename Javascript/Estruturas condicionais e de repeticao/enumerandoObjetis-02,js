@@ -1,0 +1,17 @@
+const names = [
+    'Clara',
+    'Ana',
+    'Jéssica',
+    'Juliana',
+    'Fernanda',
+    'Patrícia',
+    'Camila',
+    'Larissa',
+    'Bruna',
+    'Amanda'
+];
+
+for ( personName of names){
+    console.log( personName );
+}
+ 
